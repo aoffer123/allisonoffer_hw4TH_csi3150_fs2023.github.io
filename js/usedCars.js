@@ -7,7 +7,7 @@ const usedCars = [
         price: 18000,
         color: "Silver",
         gasMileage: "25 mpg city, 35 mpg highway",
-        image: "/img/toyota.png"
+        image: "./img/toyota.png"
     },
     {
         year: 2016,
@@ -17,7 +17,7 @@ const usedCars = [
         price: 14000,
         color: "White",
         gasMileage: "30 mpg city, 40 mpg highway",
-        image: "/img/honda.png"
+        image: "./img/honda.png"
     },
     {
         year: 2016,
@@ -27,7 +27,7 @@ const usedCars = [
         price: 15000,
         color: "Gray",
         gasMileage: "29 mpg city, 40 mpg highway",
-        image: "/img/volks.avif"
+        image: "./img/volks.avif"
     },
 
     {
@@ -38,7 +38,7 @@ const usedCars = [
         price: 17000,
         color: "Blue",
         gasMileage: "27 mpg city, 36 mpg highway",
-        image: "/img/nissan.png"
+        image: "./img/nissan.png"
     },
     {
         year: 2015,
@@ -48,7 +48,7 @@ const usedCars = [
         price: 12000,
         color: "Red",
         gasMileage: "25 mpg city, 37 mpg highway",
-        image: "/img/chevrolet.avif"
+        image: "./img/chevrolet.avif"
     },
     // Additional entries:
 
@@ -60,7 +60,7 @@ const usedCars = [
         price: 16000,
         color: "Silver",
         gasMileage: "30 mpg city, 41 mpg highway",
-        image: "/img/elantra.webp"
+        image: "./img/elantra.webp"
     },
     {
         year: 2014,
@@ -70,7 +70,7 @@ const usedCars = [
         price: 14000,
         color: "Green",
         gasMileage: "22 mpg city, 30 mpg highway",
-        image: "../img/susb.png"
+        image: "./img/susb.png"
     },
     {
         year: 2017,
@@ -80,7 +80,7 @@ const usedCars = [
         price: 19000,
         color: "Blue",
         gasMileage: "24 mpg city, 31 mpg highway",
-        image: "/img/mazda.png"
+        image: "./img/mazda.png"
     },
     {
         year: 2018,
@@ -90,7 +90,7 @@ const usedCars = [
         price: 17000,
         color: "White",
         gasMileage: "22 mpg city, 29 mpg highway",
-        image: "/img/kia.webp"
+        image: "./img/kia.webp"
     },
     // Five more entries:
     {
@@ -101,7 +101,7 @@ const usedCars = [
         price: 24000,
         color: "Black",
         gasMileage: "19 mpg city, 30 mpg highway",
-        image: "/img/challenger.png"
+        image: "./img/challenger.png"
     },
     {
         year: 2017,
@@ -111,7 +111,7 @@ const usedCars = [
         price: 32000,
         color: "Red",
         gasMileage: "19 mpg city, 27 mpg highway",
-        image: "/img/challenger.png"
+        image: "./img/challenger.png"
     },
     {
         year: 2017,
@@ -121,7 +121,7 @@ const usedCars = [
         price: 16000,
         color: "Black",
         gasMileage: "28 mpg city, 38 mpg highway",
-        image: "/img/fordfusion.png"
+        image: "./img/fordfusion.png"
     },
     {
         year: 2018,
@@ -131,7 +131,7 @@ const usedCars = [
         price: 38000,
         color: "Blue",
         gasMileage: "18 mpg city, 23 mpg highway",
-        image: "/img/jagua.png"
+        image: "./img/jagua.png"
     },
     {
         year: 2019,
@@ -141,7 +141,7 @@ const usedCars = [
         price: 55000,
         color: "Black",
         gasMileage: "Electric (370 miles per charge)",
-        image: "/img/tesla.avif"
+        image: "./img/tesla.avif"
     },
     {
         year: 2020,
@@ -151,7 +151,7 @@ const usedCars = [
         price: 68000,
         color: "White",
         gasMileage: "20 mpg city, 26 mpg highway",
-        image: "/img/porsche.png"
+        image: "./img/porsche.png"
     },
     {
         year: 2017,
@@ -161,7 +161,7 @@ const usedCars = [
         price: 26000,
         color: "White",
         gasMileage: "21 mpg city, 30 mpg highway",
-        image: "/img/lexus white.webp",
+        image: "./img/lexus white.webp",
     },
     {
         year: 2016,
@@ -171,7 +171,7 @@ const usedCars = [
         price: 27000,
         color: "Black",
         gasMileage: "23 mpg city, 34 mpg highway",
-        image: "/img/BMW.png",
+        image: "./img/BMW.png",
     },
 ];
 
